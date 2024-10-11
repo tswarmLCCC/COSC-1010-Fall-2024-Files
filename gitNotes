@@ -1,0 +1,7 @@
+
+
+##Remove
+
+git rm path/to/workspace.xml
+git commit -m 'removed workspace.xml from repo'
+git push origin yourBranch
